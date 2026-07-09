@@ -1,0 +1,81 @@
+Hello! This text file is here to help you identify the crops included in this pack, and set them up in your game engine easily.
+Find the original asset here:
+https://seliel-the-shaper.itch.io/farming-crops
+
+The Mana Seed Farming Crops sheets are arranged on a 144x512 pixel sheet, designed to be sliced at 16x32 pixels.
+Each horizontal row has the following sprites for a single crop:
+
+	Column 1) An inventory/shop icon for the crop.
+	Column 2) An inventory/shop icon for the crop's seedbag.
+	Column 3) Some seeds, for scattering on the ground when you plant them.
+	Column 4) Stage 1 of the crop's growth.
+	Column 5) Stage 2 of the crop's growth.
+	Column 6) Stage 3 of the crop's growth.
+	Column 7) Stage 4 of the crop's growth.
+	Column 8) Stage 5 of the crop's growth.
+	Column 9) An inventory/shop icon for the sign (see column 9).
+	Column 10) Map object sign for the crop, so you know what you put in your garden.
+
+They're all in this arrangement, so if you've got a system in your game for growing the crops, you can simply advance the frame by 1 for each stage (until 5).
+You can also use the cell references below to quickly find the icons or signage by adding a certain value to the reference number.
+
+After you plant the crops, they're meant to grow from stage 1 to 5 over whatever time you set.
+For most crops, once it reaches stage 5 it's meant to be harvested, and then deleted from the environment.
+But stage 4 and 5 need to be considered differently for some crops.
+Some crops are designed to be harvested multiple times, in these cases, you still harvest it at stage 5, but...
+... instead of deleting it from the environment, you reset it to stage 4, then move again to stage 5 the next day (or longer).
+When you've given your player enough harvests, you can set it to eventually go away after harvesting stage 5.
+The crops that work like this are visually identifiable by the fact that their stage 4 and 5 will be identical but for the absence/presence of harvestable vegetables.
+Here's the list, though: bell peppers, blueberries, chili peppers, raspberries, eggplant, and zucchini.
+
+Bell peppers (also known as paprika or capsicum) is a special case to the rule above.
+Bell peppers should show stage 5 of the green variant first, then proceed to the yellow variant the next day, orange the day after, then finally red.
+Harvesting at any stage will get you bell peppers of the appropriate color, and then start growing green ones again in a day or two.
+
+Now for a cell reference guide to help you identify what the crops are meant to be.
+There are 144 cells in each sheet, and I'm starting at cell 0 (so if your engine starts frames at cell 1, then just add 1 to all the references.
+
+farming crops 2-A 16x32.png
+
+0	Artichoke
+9	Red Bell Pepper (also known as paprika or capsicum)
+19	Blueberries
+29	Celery
+39	Watermelon
+49	Leek
+59	Garlic
+69	Red Chili Pepper (cayenne)
+79	Oats
+89	Raspberry
+99	Eggplant (also known as aubergine)
+109	Radish
+119	Lettuce
+129	Sweet Potato
+139	Turnip
+140	Zucchini (also known as courgette)
+
+farming crops 2-B 16x32.png (recolors)
+
+0	Green Bell Pepper
+9	Yellow Bell Pepper
+19	Orange Bell Pepper
+	Note: the colors aren't distinct species, just different stages of ripeness.
+29	Cranberries (or maybe redcurrants)
+39	Blackcurrants
+49	Rhubarb
+59	Green Chili Pepper (serrano)
+69	Blackberries
+79	Boysenberries
+89	White Eggplant
+99	Kale
+109	Yam
+119	Rutabega
+129	Summer Squash ~OR~ Golden Zucchini
+139	n/a
+140	n/a
+
+Note: I left some empty space on page B just in case I want to add more recolors in a future update.
+
+One last note: The giant veggie on the "32x80" sheet is a zucchini.
+I left empty space for more in a potential future update (and to match the sheet size of the giant veggies in Farming Crops #1).
+I chose not to include recolors, but feel free to make your own using the recolors of the small one I provided on page B.

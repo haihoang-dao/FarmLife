@@ -1,0 +1,4212 @@
+fileFormatVersion: 2
+guid: f80cf29d15c0f6542ac88343012ab8c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6749057365775086977
+    second: farming crops 1-B 16x32_0
+  - first:
+      213: 1940958633890246939
+    second: farming crops 1-B 16x32_1
+  - first:
+      213: 3634648865186531884
+    second: farming crops 1-B 16x32_2
+  - first:
+      213: -2215449790608283238
+    second: farming crops 1-B 16x32_3
+  - first:
+      213: 8254366722191370603
+    second: farming crops 1-B 16x32_4
+  - first:
+      213: 4692574205832119634
+    second: farming crops 1-B 16x32_5
+  - first:
+      213: -3284676828199025664
+    second: farming crops 1-B 16x32_6
+  - first:
+      213: -2711675050362305193
+    second: farming crops 1-B 16x32_7
+  - first:
+      213: -4621434976785382550
+    second: farming crops 1-B 16x32_8
+  - first:
+      213: -2522061554895465682
+    second: farming crops 1-B 16x32_9
+  - first:
+      213: 7906036111439613749
+    second: farming crops 1-B 16x32_10
+  - first:
+      213: -4734124359678175087
+    second: farming crops 1-B 16x32_11
+  - first:
+      213: -3689370546156129902
+    second: farming crops 1-B 16x32_12
+  - first:
+      213: 7395486425335777428
+    second: farming crops 1-B 16x32_13
+  - first:
+      213: -766672228746160926
+    second: farming crops 1-B 16x32_14
+  - first:
+      213: -7471051221705690238
+    second: farming crops 1-B 16x32_15
+  - first:
+      213: -2722492000106835555
+    second: farming crops 1-B 16x32_16
+  - first:
+      213: 2204951536994706977
+    second: farming crops 1-B 16x32_17
+  - first:
+      213: 3619922304700841226
+    second: farming crops 1-B 16x32_18
+  - first:
+      213: 2681167172832909045
+    second: farming crops 1-B 16x32_19
+  - first:
+      213: -5712542075521691163
+    second: farming crops 1-B 16x32_20
+  - first:
+      213: -5247148231119257442
+    second: farming crops 1-B 16x32_21
+  - first:
+      213: -7660952321237131020
+    second: farming crops 1-B 16x32_22
+  - first:
+      213: 145660324489987914
+    second: farming crops 1-B 16x32_23
+  - first:
+      213: 6213925940223787106
+    second: farming crops 1-B 16x32_24
+  - first:
+      213: -3355055868857265834
+    second: farming crops 1-B 16x32_25
+  - first:
+      213: 8685485876658345220
+    second: farming crops 1-B 16x32_26
+  - first:
+      213: 8427544878391629682
+    second: farming crops 1-B 16x32_27
+  - first:
+      213: 1759071277020202239
+    second: farming crops 1-B 16x32_28
+  - first:
+      213: -313835069179362670
+    second: farming crops 1-B 16x32_29
+  - first:
+      213: -4658956818854485739
+    second: farming crops 1-B 16x32_30
+  - first:
+      213: -4183580434843864291
+    second: farming crops 1-B 16x32_31
+  - first:
+      213: 6135976835909396084
+    second: farming crops 1-B 16x32_32
+  - first:
+      213: 5593541918128643263
+    second: farming crops 1-B 16x32_33
+  - first:
+      213: -7376624198617745704
+    second: farming crops 1-B 16x32_34
+  - first:
+      213: -7259898794557097957
+    second: farming crops 1-B 16x32_35
+  - first:
+      213: 9214210228999883901
+    second: farming crops 1-B 16x32_36
+  - first:
+      213: -7468506145584706084
+    second: farming crops 1-B 16x32_37
+  - first:
+      213: -7017770578834395683
+    second: farming crops 1-B 16x32_38
+  - first:
+      213: 9037064901799419524
+    second: farming crops 1-B 16x32_39
+  - first:
+      213: -8664727358431975191
+    second: farming crops 1-B 16x32_40
+  - first:
+      213: 3087419880474995075
+    second: farming crops 1-B 16x32_41
+  - first:
+      213: 6939104789777091877
+    second: farming crops 1-B 16x32_42
+  - first:
+      213: 1863664754478452771
+    second: farming crops 1-B 16x32_43
+  - first:
+      213: -8288813686190183511
+    second: farming crops 1-B 16x32_44
+  - first:
+      213: 8865473395868169143
+    second: farming crops 1-B 16x32_45
+  - first:
+      213: 5709447795726990716
+    second: farming crops 1-B 16x32_46
+  - first:
+      213: 5664208156305953183
+    second: farming crops 1-B 16x32_47
+  - first:
+      213: 6193224052472643327
+    second: farming crops 1-B 16x32_48
+  - first:
+      213: -8312368777046225349
+    second: farming crops 1-B 16x32_49
+  - first:
+      213: 4271574718042120749
+    second: farming crops 1-B 16x32_50
+  - first:
+      213: 5022250352784031242
+    second: farming crops 1-B 16x32_51
+  - first:
+      213: 5689794976920768537
+    second: farming crops 1-B 16x32_52
+  - first:
+      213: 1133165285440143811
+    second: farming crops 1-B 16x32_53
+  - first:
+      213: 6825143596719089433
+    second: farming crops 1-B 16x32_54
+  - first:
+      213: 2426082694566248023
+    second: farming crops 1-B 16x32_55
+  - first:
+      213: 6631350723091009622
+    second: farming crops 1-B 16x32_56
+  - first:
+      213: -2111053509568899558
+    second: farming crops 1-B 16x32_57
+  - first:
+      213: -2886787903602384317
+    second: farming crops 1-B 16x32_58
+  - first:
+      213: 5280921120218210415
+    second: farming crops 1-B 16x32_59
+  - first:
+      213: 5070451057523777924
+    second: farming crops 1-B 16x32_60
+  - first:
+      213: 1574371911588206816
+    second: farming crops 1-B 16x32_61
+  - first:
+      213: 2008154896164129071
+    second: farming crops 1-B 16x32_62
+  - first:
+      213: 5011310413957314066
+    second: farming crops 1-B 16x32_63
+  - first:
+      213: -6260178877025078325
+    second: farming crops 1-B 16x32_64
+  - first:
+      213: -6496701107852549527
+    second: farming crops 1-B 16x32_65
+  - first:
+      213: 3714410842692736848
+    second: farming crops 1-B 16x32_66
+  - first:
+      213: 3282251076824421568
+    second: farming crops 1-B 16x32_67
+  - first:
+      213: 8487537788615986488
+    second: farming crops 1-B 16x32_68
+  - first:
+      213: 6606545179707571246
+    second: farming crops 1-B 16x32_69
+  - first:
+      213: -4750363564471086388
+    second: farming crops 1-B 16x32_70
+  - first:
+      213: 5026240142727823494
+    second: farming crops 1-B 16x32_71
+  - first:
+      213: -9207262897815829511
+    second: farming crops 1-B 16x32_72
+  - first:
+      213: -7585703789648373431
+    second: farming crops 1-B 16x32_73
+  - first:
+      213: -9191860244588689720
+    second: farming crops 1-B 16x32_74
+  - first:
+      213: -1161990445001978359
+    second: farming crops 1-B 16x32_75
+  - first:
+      213: -8791871012610461080
+    second: farming crops 1-B 16x32_76
+  - first:
+      213: -1585817200346611071
+    second: farming crops 1-B 16x32_77
+  - first:
+      213: -5999871311758386026
+    second: farming crops 1-B 16x32_78
+  - first:
+      213: -7621539851271998262
+    second: farming crops 1-B 16x32_79
+  - first:
+      213: -7126685974742386634
+    second: farming crops 1-B 16x32_80
+  - first:
+      213: -323466991829699697
+    second: farming crops 1-B 16x32_81
+  - first:
+      213: -3089001290755053759
+    second: farming crops 1-B 16x32_82
+  - first:
+      213: 6226873081160788366
+    second: farming crops 1-B 16x32_83
+  - first:
+      213: 5745239461913009737
+    second: farming crops 1-B 16x32_84
+  - first:
+      213: 8629242123406767115
+    second: farming crops 1-B 16x32_85
+  - first:
+      213: -8909874948420661534
+    second: farming crops 1-B 16x32_86
+  - first:
+      213: -2676719406687922060
+    second: farming crops 1-B 16x32_87
+  - first:
+      213: 2752145560258122292
+    second: farming crops 1-B 16x32_88
+  - first:
+      213: -4388798224154661839
+    second: farming crops 1-B 16x32_89
+  - first:
+      213: -6733298012126496651
+    second: farming crops 1-B 16x32_90
+  - first:
+      213: -5888960136347826491
+    second: farming crops 1-B 16x32_91
+  - first:
+      213: 1450800034714694914
+    second: farming crops 1-B 16x32_92
+  - first:
+      213: -5887956800108455824
+    second: farming crops 1-B 16x32_93
+  - first:
+      213: 3259973703163919910
+    second: farming crops 1-B 16x32_94
+  - first:
+      213: 712356892429572185
+    second: farming crops 1-B 16x32_95
+  - first:
+      213: 570683871557492545
+    second: farming crops 1-B 16x32_96
+  - first:
+      213: -7461799110724090299
+    second: farming crops 1-B 16x32_97
+  - first:
+      213: -7229722420461809184
+    second: farming crops 1-B 16x32_98
+  - first:
+      213: -742643202084885289
+    second: farming crops 1-B 16x32_99
+  - first:
+      213: -1420096866383979351
+    second: farming crops 1-B 16x32_100
+  - first:
+      213: -920559977970274520
+    second: farming crops 1-B 16x32_101
+  - first:
+      213: -248842526546845457
+    second: farming crops 1-B 16x32_102
+  - first:
+      213: 2624472372867562701
+    second: farming crops 1-B 16x32_103
+  - first:
+      213: 2077145052707857838
+    second: farming crops 1-B 16x32_104
+  - first:
+      213: 4661501396469448880
+    second: farming crops 1-B 16x32_105
+  - first:
+      213: -3006311154947149318
+    second: farming crops 1-B 16x32_106
+  - first:
+      213: 4689229516704791819
+    second: farming crops 1-B 16x32_107
+  - first:
+      213: -1323061584691827859
+    second: farming crops 1-B 16x32_108
+  - first:
+      213: -2634623404699335055
+    second: farming crops 1-B 16x32_109
+  - first:
+      213: 8114358681918726603
+    second: farming crops 1-B 16x32_110
+  - first:
+      213: 5246178476077552811
+    second: farming crops 1-B 16x32_111
+  - first:
+      213: 5239648754417764553
+    second: farming crops 1-B 16x32_112
+  - first:
+      213: -1924042740779804141
+    second: farming crops 1-B 16x32_113
+  - first:
+      213: 178454243621500144
+    second: farming crops 1-B 16x32_114
+  - first:
+      213: -6526118988527773922
+    second: farming crops 1-B 16x32_115
+  - first:
+      213: 8140284356999266350
+    second: farming crops 1-B 16x32_116
+  - first:
+      213: 878322688552613598
+    second: farming crops 1-B 16x32_117
+  - first:
+      213: -3439311428359286779
+    second: farming crops 1-B 16x32_118
+  - first:
+      213: 4506987178303107126
+    second: farming crops 1-B 16x32_119
+  - first:
+      213: -4837079688102498485
+    second: farming crops 1-B 16x32_120
+  - first:
+      213: 4639055451329691965
+    second: farming crops 1-B 16x32_121
+  - first:
+      213: -5219395980483522214
+    second: farming crops 1-B 16x32_122
+  - first:
+      213: -5514347242623654586
+    second: farming crops 1-B 16x32_123
+  - first:
+      213: -8612875837692734989
+    second: farming crops 1-B 16x32_124
+  - first:
+      213: -5087409588374126304
+    second: farming crops 1-B 16x32_125
+  - first:
+      213: -2692056192378021765
+    second: farming crops 1-B 16x32_126
+  - first:
+      213: 4214933695436776437
+    second: farming crops 1-B 16x32_127
+  - first:
+      213: -8153012107346231726
+    second: farming crops 1-B 16x32_128
+  - first:
+      213: 1716504426466099389
+    second: farming crops 1-B 16x32_129
+  - first:
+      213: 9088253011936787607
+    second: farming crops 1-B 16x32_130
+  - first:
+      213: 973644680525917302
+    second: farming crops 1-B 16x32_131
+  - first:
+      213: -6578889610478146039
+    second: farming crops 1-B 16x32_132
+  - first:
+      213: 1592617667653827270
+    second: farming crops 1-B 16x32_133
+  - first:
+      213: 1144020661375033760
+    second: farming crops 1-B 16x32_134
+  - first:
+      213: 5197805749128568169
+    second: farming crops 1-B 16x32_135
+  - first:
+      213: -1817266088215825815
+    second: farming crops 1-B 16x32_136
+  - first:
+      213: -5548968734317748707
+    second: farming crops 1-B 16x32_137
+  - first:
+      213: 7020973698777090927
+    second: farming crops 1-B 16x32_138
+  - first:
+      213: 4957981445638673221
+    second: farming crops 1-B 16x32_139
+  - first:
+      213: -6257255208802776391
+    second: farming crops 1-B 16x32_140
+  - first:
+      213: 5545606482842404761
+    second: farming crops 1-B 16x32_141
+  - first:
+      213: 5122070278323396660
+    second: farming crops 1-B 16x32_142
+  - first:
+      213: -6973279682454438241
+    second: farming crops 1-B 16x32_143
+  - first:
+      213: -8762221483211159453
+    second: farming crops 1-B 16x32_144
+  - first:
+      213: 880264219134851320
+    second: farming crops 1-B 16x32_145
+  - first:
+      213: 836098881666105026
+    second: farming crops 1-B 16x32_146
+  - first:
+      213: -3425325481223200210
+    second: farming crops 1-B 16x32_147
+  - first:
+      213: -5115661862041731387
+    second: farming crops 1-B 16x32_148
+  - first:
+      213: 6895664468519265357
+    second: farming crops 1-B 16x32_149
+  - first:
+      213: 4368120424880110984
+    second: farming crops 1-B 16x32_150
+  - first:
+      213: 7816936006700434729
+    second: farming crops 1-B 16x32_151
+  - first:
+      213: -6671118071481978739
+    second: farming crops 1-B 16x32_152
+  - first:
+      213: -5670136184401671145
+    second: farming crops 1-B 16x32_153
+  - first:
+      213: -8635945336630732550
+    second: farming crops 1-B 16x32_154
+  - first:
+      213: -4139700607165918726
+    second: farming crops 1-B 16x32_155
+  - first:
+      213: -4877219896873557161
+    second: farming crops 1-B 16x32_156
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a0e3875188652a0800000000000000
+      internalID: -6749057365775086977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 480
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1171c8089bafea10800000000000000
+      internalID: 1940958633890246939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 482
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a48bcb2edd07230800000000000000
+      internalID: 3634648865186531884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 482
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99641547242141e0800000000000000
+      internalID: -2215449790608283238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 482
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69a502ecc66d8270800000000000000
+      internalID: 8254366722191370603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 482
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255c8ccb06f5f1140800000000000000
+      internalID: 4692574205832119634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 482
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0048d35e3db7a62d0800000000000000
+      internalID: -3284676828199025664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 482
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7558dd4a8e13e5ad0800000000000000
+      internalID: -2711675050362305193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 479
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a634420cf5d5ddfb0800000000000000
+      internalID: -4621434976785382550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 484
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2359c6d066dffcd0800000000000000
+      internalID: -2522061554895465682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fc4c394f1e7bd60800000000000000
+      internalID: 7906036111439613749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 448
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198dbd23af20d4eb0800000000000000
+      internalID: -4734124359678175087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 450
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291339f0909bcccc0800000000000000
+      internalID: -3689370546156129902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 450
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498cc5b88bb02a660800000000000000
+      internalID: 7395486425335777428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 450
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e49d628bab3c55f0800000000000000
+      internalID: -766672228746160926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 450
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283fb774f7e715890800000000000000
+      internalID: -7471051221705690238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_16
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 450
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d911ac543f3c73ad0800000000000000
+      internalID: -2722492000106835555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_17
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 450
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12665859dbf899e10800000000000000
+      internalID: 2204951536994706977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 447
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0df43e282c8c3230800000000000000
+      internalID: 3619922304700841226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 452
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6d428965b653520800000000000000
+      internalID: 2681167172832909045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e19e08af39f8b0b0800000000000000
+      internalID: -5712542075521691163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 416
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9041500c726e27b0800000000000000
+      internalID: -5247148231119257442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_22
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 418
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0e47b0474dea590800000000000000
+      internalID: -7660952321237131020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_23
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 418
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47081b1b4d750200800000000000000
+      internalID: 145660324489987914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 417
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260cf9748bc4c3650800000000000000
+      internalID: 6213925940223787106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_25
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 416
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6515c2f86727071d0800000000000000
+      internalID: -3355055868857265834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_26
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 415
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40594eb136b098870800000000000000
+      internalID: 8685485876658345220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 415
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27712357a67a4f470800000000000000
+      internalID: 8427544878391629682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_28
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 420
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4c169a10a796810800000000000000
+      internalID: 1759071277020202239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2920187daa805abf0800000000000000
+      internalID: -313835069179362670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 384
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5116b4c157f085fb0800000000000000
+      internalID: -4658956818854485739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_31
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 388
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d137bd392cfe0f5c0800000000000000
+      internalID: -4183580434843864291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_32
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 386
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476a7662c6e572550800000000000000
+      internalID: 6135976835909396084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_33
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 392
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc905a1db040ad40800000000000000
+      internalID: 5593541918128643263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_34
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 387
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6b6d7df57f0a990800000000000000
+      internalID: -7376624198617745704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_35
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 386
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18332dc288af3b90800000000000000
+      internalID: -7259898794557097957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_36
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 386
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c0f4162637fdf70800000000000000
+      internalID: 9214210228999883901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_37
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 386
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd0a9dfa398a5890800000000000000
+      internalID: -7468506145584706084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_38
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 386
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd636d17dedb9e90800000000000000
+      internalID: -7017770578834395683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 383
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e97e3d5aa1a6d70800000000000000
+      internalID: 9037064901799419524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_40
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 388
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8ad0d0064b0c780800000000000000
+      internalID: -8664727358431975191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389e0300608b8da20800000000000000
+      internalID: 3087419880474995075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_42
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 352
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d00e59a07ac4060800000000000000
+      internalID: 6939104789777091877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_43
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 354
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3209a1758311dd910800000000000000
+      internalID: 1863664754478452771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_44
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 360
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abec315ed738fc80800000000000000
+      internalID: -8288813686190183511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_45
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 354
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3f56e051d780b70800000000000000
+      internalID: 8865473395868169143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_46
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 354
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7db1ff25880c3f40800000000000000
+      internalID: 5709447795726990716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_47
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 354
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f919c72de4f4b9e40800000000000000
+      internalID: 5664208156305953183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_48
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 354
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe790e6670c2f550800000000000000
+      internalID: 6193224052472643327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_49
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 354
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e8c1a53a884ac80800000000000000
+      internalID: -8312368777046225349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 351
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22a074039ea74b30800000000000000
+      internalID: 4271574718042120749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 356
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0eb5ca361e92b540800000000000000
+      internalID: 5022250352784031242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9101a2cb26636fe40800000000000000
+      internalID: 5689794976920768537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_53
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 320
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1c676c2dfc9bf00800000000000000
+      internalID: 1133165285440143811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_54
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 322
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9172977a0f7c7be50800000000000000
+      internalID: 6825143596719089433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_55
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 328
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ef7555b5d2ba120800000000000000
+      internalID: 2426082694566248023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_56
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 322
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6509ed6295a470c50800000000000000
+      internalID: 6631350723091009622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_57
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 322
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16dd44940804b2e0800000000000000
+      internalID: -2111053509568899558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_58
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 322
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342a2ef42b110f7d0800000000000000
+      internalID: -2886787903602384317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_59
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 322
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60e67187c9994940800000000000000
+      internalID: 5280921120218210415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_60
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 322
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48165b65f5cdd5640800000000000000
+      internalID: 5070451057523777924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 319
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8519689ea49d510800000000000000
+      internalID: 1574371911588206816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 324
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2903d70d366edb10800000000000000
+      internalID: 2008154896164129071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216342b3540cb8540800000000000000
+      internalID: 5011310413957314066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_64
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 288
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3348caa706f19a0800000000000000
+      internalID: -6260178877025078325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_65
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 290
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962ef8e63c417d5a0800000000000000
+      internalID: -6496701107852549527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_66
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 296
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0575f8c4bfc3c8330800000000000000
+      internalID: 3714410842692736848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_67
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 290
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c453c9d6f5ec8d20800000000000000
+      internalID: 3282251076824421568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_68
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 290
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d092c56aac9c570800000000000000
+      internalID: 8487537788615986488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_69
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 290
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cf90586d92fab50800000000000000
+      internalID: 6606545179707571246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_70
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 290
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc21eb1b181531eb0800000000000000
+      internalID: -4750363564471086388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_71
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 290
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680c91797cac0c540800000000000000
+      internalID: 5026240142727823494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_72
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 287
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3cd063d2b393080800000000000000
+      internalID: -9207262897815829511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_73
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 292
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9499ca6189a2ab690800000000000000
+      internalID: -7585703789648373431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c68140eec3ff6080800000000000000
+      internalID: -9191860244588689720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_75
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 256
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e4245c8d7cfdfe0800000000000000
+      internalID: -1161990445001978359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_76
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 257
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862bc4635effcf580800000000000000
+      internalID: -8791871012610461080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_77
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 258
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182c2a688ab0ef9e0800000000000000
+      internalID: -1585817200346611071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_78
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 258
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c9594a4dc2cbca0800000000000000
+      internalID: -5999871311758386026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_79
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 258
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4f27bc2e9da3690800000000000000
+      internalID: -7621539851271998262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_80
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 258
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638b8b16ddce81d90800000000000000
+      internalID: -7126685974742386634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 255
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f833d671c70d28bf0800000000000000
+      internalID: -323466991829699697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_82
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 260
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14762d931b9a125d0800000000000000
+      internalID: -3089001290755053759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89e700731c4a6650800000000000000
+      internalID: 6226873081160788366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_84
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 224
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e91ecd9d03bbf40800000000000000
+      internalID: 5745239461913009737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_85
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 225
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b047f76ddf931c770800000000000000
+      internalID: 8629242123406767115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_86
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 225
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee0c32e0f3c95480800000000000000
+      internalID: -8909874948420661534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_87
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 224
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478d8f8a1e16adad0800000000000000
+      internalID: -2676719406687922060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_88
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 224
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4329a593ec5913620800000000000000
+      internalID: 2752145560258122292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_89
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 224
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c656a944bd713c0800000000000000
+      internalID: -4388798224154661839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_90
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 223
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5783b5ce1258e82a0800000000000000
+      internalID: -6733298012126496651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_91
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 228
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c64d8005f5364ea0800000000000000
+      internalID: -5888960136347826491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2053b45e1f6422410800000000000000
+      internalID: 1450800034714694914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_93
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 192
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07890bc6c76c94ea0800000000000000
+      internalID: -5887956800108455824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_94
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 193
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e333a9fc0cd3d20800000000000000
+      internalID: 3259973703163919910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_95
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 193
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958d096c1dcc2e900800000000000000
+      internalID: 712356892429572185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_96
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 192
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f9a3325f97be700800000000000000
+      internalID: 570683871557492545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_97
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 192
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54607fb3e3d527890800000000000000
+      internalID: -7461799110724090299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_98
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 192
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e152b763cddaab90800000000000000
+      internalID: -7229722420461809184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_99
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 191
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc2fd041f991b5f0800000000000000
+      internalID: -742643202084885289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_100
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 196
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac998c8c6dca4ce0800000000000000
+      internalID: -1420096866383979351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fe3aec3938933f0800000000000000
+      internalID: -920559977970274520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_102
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 160
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe02a206a0feb8cf0800000000000000
+      internalID: -248842526546845457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_103
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 161
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccf893d7bffb6420800000000000000
+      internalID: 2624472372867562701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_104
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 161
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5ac959b6083dc10800000000000000
+      internalID: 2077145052707857838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_105
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 160
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b08c8882daf0b040800000000000000
+      internalID: 4661501396469448880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_106
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 160
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1b415ceef6746d0800000000000000
+      internalID: -3006311154947149318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_107
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 160
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d377d966d731140800000000000000
+      internalID: 4689229516704791819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_108
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 159
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b6a74af7a83ade0800000000000000
+      internalID: -1323061584691827859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_109
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 164
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17647f5e8ffef6bd0800000000000000
+      internalID: -2634623404699335055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc16fdfba3efb9070800000000000000
+      internalID: 8114358681918726603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_111
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 128
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba417ee478b2ec840800000000000000
+      internalID: 5246178476077552811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_112
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 130
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c883e208c8f6b840800000000000000
+      internalID: 5239648754417764553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_113
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 130
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a962f325d6c45e0800000000000000
+      internalID: -1924042740779804141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 130
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f478b7603ff97200800000000000000
+      internalID: 178454243621500144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_115
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 130
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17ded65b519e65a0800000000000000
+      internalID: -6526118988527773922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_116
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 130
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e204c9d5e7918f070800000000000000
+      internalID: 8140284356999266350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_117
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 130
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed63859e4dd603c00800000000000000
+      internalID: 878322688552613598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_118
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 127
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50014b86a7c1540d0800000000000000
+      internalID: -3439311428359286779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_119
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 132
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6303ff9a5f80c8e30800000000000000
+      internalID: 4506987178303107126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fa460d6ad3fdcb0800000000000000
+      internalID: -4837079688102498485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_121
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 96
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3188ddaa5c316040800000000000000
+      internalID: 4639055451329691965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_122
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 98
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a519d21620bf097b0800000000000000
+      internalID: -5219395980483522214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_123
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 98
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645234b266a1973b0800000000000000
+      internalID: -5514347242623654586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_124
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 98
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f197cffe0be87880800000000000000
+      internalID: -8612875837692734989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_125
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 98
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0214b020fe3e569b0800000000000000
+      internalID: -5087409588374126304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_126
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 98
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78dae9f725e3aad0800000000000000
+      internalID: -2692056192378021765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_127
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 98
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f365544dd37e7a30800000000000000
+      internalID: 4214933695436776437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_128
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 95
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e3b245faeaade80800000000000000
+      internalID: -8153012107346231726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_129
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 100
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0c5e27eaf32d710800000000000000
+      internalID: 1716504426466099389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_130
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 65
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cbd5576f5ff1e70800000000000000
+      internalID: 9088253011936787607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_131
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 64
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c2238ada4138d00800000000000000
+      internalID: 973644680525917302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_132
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 65
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e21f671c613b4a0800000000000000
+      internalID: -6578889610478146039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_133
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 66
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca7487a45d1a1610800000000000000
+      internalID: 1592617667653827270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_134
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 66
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a167f0fab060ef00800000000000000
+      internalID: 1144020661375033760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_135
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d9a482ac0522840800000000000000
+      internalID: 5197805749128568169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_136
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962388dfe16c7c6e0800000000000000
+      internalID: -1817266088215825815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_137
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 63
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1edd39f55a1ef2b0800000000000000
+      internalID: -5548968734317748707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_138
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 68
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b08fc51628f6160800000000000000
+      internalID: 7020973698777090927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_139
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54355463bd94ec440800000000000000
+      internalID: 4957981445638673221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_140
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 32
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba095a3a83c929a0800000000000000
+      internalID: -6257255208802776391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_141
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997cce9d6b3f5fc40800000000000000
+      internalID: 5545606482842404761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_142
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 34
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4306d0eb7cf351740800000000000000
+      internalID: 5122070278323396660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_143
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 34
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ebad7231fe93f90800000000000000
+      internalID: -6973279682454438241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_144
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36807e93cf5566680800000000000000
+      internalID: -8762221483211159453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_145
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8f40ab4a3573c00800000000000000
+      internalID: 880264219134851320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_146
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 31
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce3fc6c08b6a9b00800000000000000
+      internalID: 836098881666105026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_147
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 36
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22e89b7f9cc670d0800000000000000
+      internalID: -3425325481223200210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_148
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce3df1f3a48109b0800000000000000
+      internalID: -5115661862041731387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_149
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44af50ac4252bf50800000000000000
+      internalID: 6895664468519265357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_150
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d7b15126eae9c30800000000000000
+      internalID: 4368120424880110984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_151
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9250757d1e55b7c60800000000000000
+      internalID: 7816936006700434729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_152
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80b0a6857d6b63a0800000000000000
+      internalID: -6671118071481978739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_153
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c46a49e21af41b0800000000000000
+      internalID: -5670136184401671145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_154
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af81f66b875f62880800000000000000
+      internalID: -8635945336630732550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_155
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af118691b34dc86c0800000000000000
+      internalID: -4139700607165918726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming crops 1-B 16x32_156
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 4
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753626b2852a05cb0800000000000000
+      internalID: -4877219896873557161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      farming crops 1-B 16x32_0: -6749057365775086977
+      farming crops 1-B 16x32_1: 1940958633890246939
+      farming crops 1-B 16x32_10: 7906036111439613749
+      farming crops 1-B 16x32_100: -1420096866383979351
+      farming crops 1-B 16x32_101: -920559977970274520
+      farming crops 1-B 16x32_102: -248842526546845457
+      farming crops 1-B 16x32_103: 2624472372867562701
+      farming crops 1-B 16x32_104: 2077145052707857838
+      farming crops 1-B 16x32_105: 4661501396469448880
+      farming crops 1-B 16x32_106: -3006311154947149318
+      farming crops 1-B 16x32_107: 4689229516704791819
+      farming crops 1-B 16x32_108: -1323061584691827859
+      farming crops 1-B 16x32_109: -2634623404699335055
+      farming crops 1-B 16x32_11: -4734124359678175087
+      farming crops 1-B 16x32_110: 8114358681918726603
+      farming crops 1-B 16x32_111: 5246178476077552811
+      farming crops 1-B 16x32_112: 5239648754417764553
+      farming crops 1-B 16x32_113: -1924042740779804141
+      farming crops 1-B 16x32_114: 178454243621500144
+      farming crops 1-B 16x32_115: -6526118988527773922
+      farming crops 1-B 16x32_116: 8140284356999266350
+      farming crops 1-B 16x32_117: 878322688552613598
+      farming crops 1-B 16x32_118: -3439311428359286779
+      farming crops 1-B 16x32_119: 4506987178303107126
+      farming crops 1-B 16x32_12: -3689370546156129902
+      farming crops 1-B 16x32_120: -4837079688102498485
+      farming crops 1-B 16x32_121: 4639055451329691965
+      farming crops 1-B 16x32_122: -5219395980483522214
+      farming crops 1-B 16x32_123: -5514347242623654586
+      farming crops 1-B 16x32_124: -8612875837692734989
+      farming crops 1-B 16x32_125: -5087409588374126304
+      farming crops 1-B 16x32_126: -2692056192378021765
+      farming crops 1-B 16x32_127: 4214933695436776437
+      farming crops 1-B 16x32_128: -8153012107346231726
+      farming crops 1-B 16x32_129: 1716504426466099389
+      farming crops 1-B 16x32_13: 7395486425335777428
+      farming crops 1-B 16x32_130: 9088253011936787607
+      farming crops 1-B 16x32_131: 973644680525917302
+      farming crops 1-B 16x32_132: -6578889610478146039
+      farming crops 1-B 16x32_133: 1592617667653827270
+      farming crops 1-B 16x32_134: 1144020661375033760
+      farming crops 1-B 16x32_135: 5197805749128568169
+      farming crops 1-B 16x32_136: -1817266088215825815
+      farming crops 1-B 16x32_137: -5548968734317748707
+      farming crops 1-B 16x32_138: 7020973698777090927
+      farming crops 1-B 16x32_139: 4957981445638673221
+      farming crops 1-B 16x32_14: -766672228746160926
+      farming crops 1-B 16x32_140: -6257255208802776391
+      farming crops 1-B 16x32_141: 5545606482842404761
+      farming crops 1-B 16x32_142: 5122070278323396660
+      farming crops 1-B 16x32_143: -6973279682454438241
+      farming crops 1-B 16x32_144: -8762221483211159453
+      farming crops 1-B 16x32_145: 880264219134851320
+      farming crops 1-B 16x32_146: 836098881666105026
+      farming crops 1-B 16x32_147: -3425325481223200210
+      farming crops 1-B 16x32_148: -5115661862041731387
+      farming crops 1-B 16x32_149: 6895664468519265357
+      farming crops 1-B 16x32_15: -7471051221705690238
+      farming crops 1-B 16x32_150: 4368120424880110984
+      farming crops 1-B 16x32_151: 7816936006700434729
+      farming crops 1-B 16x32_152: -6671118071481978739
+      farming crops 1-B 16x32_153: -5670136184401671145
+      farming crops 1-B 16x32_154: -8635945336630732550
+      farming crops 1-B 16x32_155: -4139700607165918726
+      farming crops 1-B 16x32_156: -4877219896873557161
+      farming crops 1-B 16x32_16: -2722492000106835555
+      farming crops 1-B 16x32_17: 2204951536994706977
+      farming crops 1-B 16x32_18: 3619922304700841226
+      farming crops 1-B 16x32_19: 2681167172832909045
+      farming crops 1-B 16x32_2: 3634648865186531884
+      farming crops 1-B 16x32_20: -5712542075521691163
+      farming crops 1-B 16x32_21: -5247148231119257442
+      farming crops 1-B 16x32_22: -7660952321237131020
+      farming crops 1-B 16x32_23: 145660324489987914
+      farming crops 1-B 16x32_24: 6213925940223787106
+      farming crops 1-B 16x32_25: -3355055868857265834
+      farming crops 1-B 16x32_26: 8685485876658345220
+      farming crops 1-B 16x32_27: 8427544878391629682
+      farming crops 1-B 16x32_28: 1759071277020202239
+      farming crops 1-B 16x32_29: -313835069179362670
+      farming crops 1-B 16x32_3: -2215449790608283238
+      farming crops 1-B 16x32_30: -4658956818854485739
+      farming crops 1-B 16x32_31: -4183580434843864291
+      farming crops 1-B 16x32_32: 6135976835909396084
+      farming crops 1-B 16x32_33: 5593541918128643263
+      farming crops 1-B 16x32_34: -7376624198617745704
+      farming crops 1-B 16x32_35: -7259898794557097957
+      farming crops 1-B 16x32_36: 9214210228999883901
+      farming crops 1-B 16x32_37: -7468506145584706084
+      farming crops 1-B 16x32_38: -7017770578834395683
+      farming crops 1-B 16x32_39: 9037064901799419524
+      farming crops 1-B 16x32_4: 8254366722191370603
+      farming crops 1-B 16x32_40: -8664727358431975191
+      farming crops 1-B 16x32_41: 3087419880474995075
+      farming crops 1-B 16x32_42: 6939104789777091877
+      farming crops 1-B 16x32_43: 1863664754478452771
+      farming crops 1-B 16x32_44: -8288813686190183511
+      farming crops 1-B 16x32_45: 8865473395868169143
+      farming crops 1-B 16x32_46: 5709447795726990716
+      farming crops 1-B 16x32_47: 5664208156305953183
+      farming crops 1-B 16x32_48: 6193224052472643327
+      farming crops 1-B 16x32_49: -8312368777046225349
+      farming crops 1-B 16x32_5: 4692574205832119634
+      farming crops 1-B 16x32_50: 4271574718042120749
+      farming crops 1-B 16x32_51: 5022250352784031242
+      farming crops 1-B 16x32_52: 5689794976920768537
+      farming crops 1-B 16x32_53: 1133165285440143811
+      farming crops 1-B 16x32_54: 6825143596719089433
+      farming crops 1-B 16x32_55: 2426082694566248023
+      farming crops 1-B 16x32_56: 6631350723091009622
+      farming crops 1-B 16x32_57: -2111053509568899558
+      farming crops 1-B 16x32_58: -2886787903602384317
+      farming crops 1-B 16x32_59: 5280921120218210415
+      farming crops 1-B 16x32_6: -3284676828199025664
+      farming crops 1-B 16x32_60: 5070451057523777924
+      farming crops 1-B 16x32_61: 1574371911588206816
+      farming crops 1-B 16x32_62: 2008154896164129071
+      farming crops 1-B 16x32_63: 5011310413957314066
+      farming crops 1-B 16x32_64: -6260178877025078325
+      farming crops 1-B 16x32_65: -6496701107852549527
+      farming crops 1-B 16x32_66: 3714410842692736848
+      farming crops 1-B 16x32_67: 3282251076824421568
+      farming crops 1-B 16x32_68: 8487537788615986488
+      farming crops 1-B 16x32_69: 6606545179707571246
+      farming crops 1-B 16x32_7: -2711675050362305193
+      farming crops 1-B 16x32_70: -4750363564471086388
+      farming crops 1-B 16x32_71: 5026240142727823494
+      farming crops 1-B 16x32_72: -9207262897815829511
+      farming crops 1-B 16x32_73: -7585703789648373431
+      farming crops 1-B 16x32_74: -9191860244588689720
+      farming crops 1-B 16x32_75: -1161990445001978359
+      farming crops 1-B 16x32_76: -8791871012610461080
+      farming crops 1-B 16x32_77: -1585817200346611071
+      farming crops 1-B 16x32_78: -5999871311758386026
+      farming crops 1-B 16x32_79: -7621539851271998262
+      farming crops 1-B 16x32_8: -4621434976785382550
+      farming crops 1-B 16x32_80: -7126685974742386634
+      farming crops 1-B 16x32_81: -323466991829699697
+      farming crops 1-B 16x32_82: -3089001290755053759
+      farming crops 1-B 16x32_83: 6226873081160788366
+      farming crops 1-B 16x32_84: 5745239461913009737
+      farming crops 1-B 16x32_85: 8629242123406767115
+      farming crops 1-B 16x32_86: -8909874948420661534
+      farming crops 1-B 16x32_87: -2676719406687922060
+      farming crops 1-B 16x32_88: 2752145560258122292
+      farming crops 1-B 16x32_89: -4388798224154661839
+      farming crops 1-B 16x32_9: -2522061554895465682
+      farming crops 1-B 16x32_90: -6733298012126496651
+      farming crops 1-B 16x32_91: -5888960136347826491
+      farming crops 1-B 16x32_92: 1450800034714694914
+      farming crops 1-B 16x32_93: -5887956800108455824
+      farming crops 1-B 16x32_94: 3259973703163919910
+      farming crops 1-B 16x32_95: 712356892429572185
+      farming crops 1-B 16x32_96: 570683871557492545
+      farming crops 1-B 16x32_97: -7461799110724090299
+      farming crops 1-B 16x32_98: -7229722420461809184
+      farming crops 1-B 16x32_99: -742643202084885289
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
