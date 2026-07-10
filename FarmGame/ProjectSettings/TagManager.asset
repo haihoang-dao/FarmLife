@@ -2,8 +2,15 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
-  tags: []
+  serializedVersion: 3
+  tags:
+  - NPC
+  - Crop
+  - Building
+  - Item
+  - Interactable
+  - SellBox
+  - Shop
   layers:
   - Default
   - TransparentFX
@@ -11,14 +18,14 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - 'NPC '
+  - Crop
+  - Building
+  - Ground
+  - Interaction
+  - Item
+  - Obstacle
   - 
   - 
   - 
@@ -41,3 +48,39 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 4755241
+    locked: 0
+  - name: Ground
+    uniqueID: 3239284167
+    locked: 0
+  - name: GroundDecoration
+    uniqueID: 1054482223
+    locked: 0
+  - name: Crop
+    uniqueID: 241366229
+    locked: 0
+  - name: Object
+    uniqueID: 3213220949
+    locked: 0
+  - name: 'Building '
+    uniqueID: 4229431237
+    locked: 0
+  - name: Player
+    uniqueID: 3173279383
+    locked: 0
+  - name: 'NPC '
+    uniqueID: 1265055035
+    locked: 0
+  - name: FrontObject
+    uniqueID: 2649445161
+    locked: 0
+  - name: Effect
+    uniqueID: 1616306779
+    locked: 0
+  - name: UI
+    uniqueID: 835061595
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []
