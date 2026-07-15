@@ -1,5 +1,9 @@
-# Unity generated folders
+############################
+# Unity Generated
+############################
+
 [Ll]ibrary/
+[Ll]ibrary_Backup/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
@@ -8,11 +12,23 @@
 [Mm]emoryCaptures/
 UserSettings/
 
+############################
 # Addressables
+############################
+
 Assets/AddressableAssetsData/*.bin*
 
-# Visual Studio
+############################
+# IDE
+############################
+
 .vs/
+.idea/
+
+############################
+# Visual Studio
+############################
+
 *.csproj
 *.unityproj
 *.sln
@@ -22,18 +38,32 @@ Assets/AddressableAssetsData/*.bin*
 *.userprefs
 *.pidb
 *.booproj
+*.svd
 
-# Rider
-.idea/
+############################
+# VS Code
+############################
 
-# OS
+.vscode/
+
+############################
+# OS Files
+############################
+
 .DS_Store
 Thumbs.db
+desktop.ini
 
+############################
 # Crash Reports
+############################
+
 sysinfo.txt
 
+############################
 # Auto Generated
+############################
+
 *.apk
 *.aab
 *.unitypackage
