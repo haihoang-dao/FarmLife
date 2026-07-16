@@ -23,7 +23,7 @@ TagManager:
   - Crop
   - Building
   - Ground
-  - Interaction
+  - Interactable
   - Item
   - Obstacle
   - 

@@ -1,54 +1,119 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
+using UnityEngine.InputSystem;
 
-// Lớp PlayerInputReader chịu trách nhiệm đọc dữ liệu
-// điều khiển người chơi từ Unity Input System.
+/// <summary>
+/// Đọc dữ liệu điều khiển Player từ Unity Input System
+/// và cung cấp dữ liệu đó cho các hệ thống gameplay khác.
+/// </summary>
 public class PlayerInputReader : MonoBehaviour
 {
-    // Đối tượng quản lý toàn bộ hành động đầu vào.
+    [Header("Debug")]
+
+    [Tooltip("Bật để hiển thị thông báo khi nhận input tương tác.")]
+    [SerializeField] private bool showDebugMessages;
+
+    // Đối tượng quản lý toàn bộ Input Actions của game.
     private FarmInput farmInput;
 
-    // Hướng di chuyển hiện tại của người chơi.
+    /// <summary>
+    /// Hướng di chuyển hiện tại của Player.
+    /// Giá trị đã được chuẩn hóa để tốc độ đi chéo không nhanh hơn đi thẳng.
+    /// </summary>
     public Vector2 MoveInput { get; private set; }
 
-    // Phương thức Awake được gọi khi đối tượng được khởi tạo.
+    /// <summary>
+    /// Sự kiện được phát một lần khi Player thực hiện action Interact.
+    /// </summary>
+    public event Action InteractPressed;
+
+    /// <summary>
+    /// Khởi tạo lớp FarmInput được Unity tự động sinh.
+    /// </summary>
     private void Awake()
     {
-        // Khởi tạo lớp Input được Unity tự động sinh.
         farmInput = new FarmInput();
     }
 
-    // Phương thức OnEnable được gọi khi GameObject được kích hoạt.
+    /// <summary>
+    /// Đăng ký nhận sự kiện Interact và bật Action Map Player.
+    /// </summary>
     private void OnEnable()
     {
-        // Kiểm tra hệ thống Input đã được khởi tạo.
-        if (farmInput != null)
+        if (farmInput == null)
         {
-            // Bật nhóm hành động Player.
-            farmInput.Player.Enable();
+            return;
         }
+
+        // Đăng ký callback trước khi bật Action Map.
+        farmInput.Player.Interact.performed += OnInteractPerformed;
+
+        // Bật toàn bộ action thuộc Action Map Player.
+        farmInput.Player.Enable();
     }
 
-    // Phương thức OnDisable được gọi khi GameObject bị vô hiệu hóa.
+    /// <summary>
+    /// Hủy đăng ký sự kiện, tắt Action Map và xóa dữ liệu di chuyển.
+    /// </summary>
     private void OnDisable()
     {
-        // Kiểm tra hệ thống Input đã được khởi tạo.
         if (farmInput != null)
         {
-            // Tắt nhóm hành động Player.
+            // Hủy đăng ký để tránh callback bị gọi nhiều lần
+            // khi GameObject được Disable rồi Enable lại.
+            farmInput.Player.Interact.performed -= OnInteractPerformed;
+
+            // Tắt toàn bộ action thuộc Action Map Player.
             farmInput.Player.Disable();
         }
 
-        // Đưa hướng di chuyển về 0 khi ngừng nhận Input.
+        // Đưa hướng di chuyển về 0 để Player không tiếp tục trượt.
         MoveInput = Vector2.zero;
     }
 
-    // Phương thức Update được gọi ở mỗi khung hình.
+    /// <summary>
+    /// Đọc giá trị action Move trong mỗi frame.
+    /// </summary>
     private void Update()
     {
-        // Đọc hướng di chuyển từ Action Move.
+        if (farmInput == null)
+        {
+            MoveInput = Vector2.zero;
+            return;
+        }
+
+        // Đọc hướng di chuyển từ action Move.
         MoveInput = farmInput.Player.Move.ReadValue<Vector2>();
 
         // Chuẩn hóa để đi chéo không nhanh hơn đi thẳng.
         MoveInput = MoveInput.normalized;
+    }
+
+    /// <summary>
+    /// Được Unity Input System gọi khi action Interact chuyển sang trạng thái performed.
+    /// </summary>
+    /// <param name="context">
+    /// Thông tin ngữ cảnh của action Interact tại thời điểm được thực hiện.
+    /// </param>
+    private void OnInteractPerformed(InputAction.CallbackContext context)
+    {
+        if (showDebugMessages)
+        {
+            Debug.Log(
+                "PlayerInputReader: Đã nhận input Interact.",
+                this
+            );
+        }
+
+        // Thông báo cho các hệ thống đang lắng nghe rằng Player đã nhấn Interact.
+        InteractPressed?.Invoke();
+    }
+
+    /// <summary>
+    /// Giải phóng tài nguyên của FarmInput khi Player bị hủy.
+    /// </summary>
+    private void OnDestroy()
+    {
+        farmInput?.Dispose();
     }
 }

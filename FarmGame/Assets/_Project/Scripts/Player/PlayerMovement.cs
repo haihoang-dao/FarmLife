@@ -10,7 +10,7 @@ public class PlayerMovement : MonoBehaviour
     [Header("Movement Settings")]
 
     // Tốc độ di chuyển của người chơi.
-    [SerializeField] private float moveSpeed = 4f;
+    [SerializeField] private float moveSpeed = 10f;
 
     // Tham chiếu đến Rigidbody2D của người chơi.
     private Rigidbody2D playerRigidbody;

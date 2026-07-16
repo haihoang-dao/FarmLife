@@ -1,50 +1,28 @@
-# 03: ASSET DATABASE
+# 03_ASSET_DATABASE.md
 
-## Environment
+# FARM LIFE - ASSET DATABASE
+
+---
+
+# Main Asset
 
 Clover Valley V2 Free
 
-- Tiles
-- Buildings
-- Trees
-- Grass
-- Decoration
-- Player
-- NPC
-- Animals
+Sử dụng:
 
----
+Player
 
-## Crops
+NPC
 
-Seliel Farming Crops #1
+Buildings
 
-- Wheat
-- Corn
-- Carrot
-- Tomato
-- ...
+Environment
 
-Seliel Farming Crops #2
+Animals
 
-- Blueberry
-- Eggplant
-- Lettuce
-- ...
+Tilesets
 
----
-
-# Rule
-
-Environment:
-
-=> Clover Valley
-
-Crop:
-
-=> Seliel Farming Crops
-
-Không được dùng Crop của Clover Valley.
+Decoration
 
 Không chỉnh sửa Asset gốc.
 
@@ -53,3 +31,61 @@ Nếu cần sửa:
 Copy sang
 
 Assets/_Project/Sprites
+
+---
+
+# Crop Asset
+
+Seliel Farming Crops #1
+
+Seliel Farming Crops #2
+
+Đây là bộ Crop duy nhất sử dụng.
+
+Không dùng Crop của Clover Valley.
+
+---
+
+# Player
+
+Source
+
+Clover Valley
+
+Character
+
+Boy
+
+Sẽ sử dụng:
+
+Idle
+
+Walk
+
+Animation
+
+---
+
+# Tilemap
+
+Đã import
+
+Grass
+
+Path
+
+Fence
+
+Tree
+
+Building
+
+Decoration
+
+---
+
+# Scene
+
+Farm.unity
+
+Đã tạo Prototype Map.

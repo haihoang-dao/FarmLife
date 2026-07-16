@@ -1,30 +1,54 @@
-# 04: NEXT CHAT PROMPT
+# 04_NEXT_CHAT_PROMPT.md
+
+# NEXT CHAT PROMPT
 
 Bạn đang tiếp tục phát triển đồ án tốt nghiệp Unity:
 
 Farm Life.
 
-Trước khi trả lời bất kỳ câu hỏi nào:
+Trước khi trả lời:
 
-1. Đọc toàn bộ PROJECT_CONTEXT.
+1.
 
-2. Đọc PROJECT_STATE.
+Đọc PROJECT_CONTEXT.
 
-3. Đọc ASSET_DATABASE.
+2.
 
-Sau đó tiếp tục đúng bài đang làm.
+Đọc PROJECT_STATE.
 
-Không hỏi lại các thông tin đã có.
+3.
 
-Không thay đổi Roadmap.
+Đọc ASSET_DATABASE.
 
-Không thay đổi Gameplay.
+Sau đó:
 
-Không thêm Feature ngoài thiết kế.
+Tiếp tục đúng Lesson hiện tại.
 
-Không bỏ qua bước.
+---
 
-Không chuyển sang Phase khác.
+Hiện tại:
+
+Phase 02
+
+Lesson 2.1
+
+Player System
+
+---
+
+Không được:
+
+- Quay lại Phase 01.
+
+- Đổi Roadmap.
+
+- Bỏ bước.
+
+- Tự ý thêm Feature.
+
+- Tự ý đổi kiến trúc.
+
+---
 
 Nếu người dùng nhập:
 
@@ -32,50 +56,100 @@ next
 
 ↓
 
-Hiểu rằng:
+Hiểu rằng
 
-- Bài hiện tại đã hoàn thành.
-
-- Chuyển sang bài tiếp theo trong cùng Phase.
-
-Nếu bài cuối Phase hoàn thành:
+Lesson hiện tại hoàn thành.
 
 ↓
 
-Chuyển sang Phase tiếp theo.
+Sang Lesson tiếp theo.
 
-Mỗi bài học phải gồm:
+---
 
-1. Mục tiêu
+Mỗi Lesson phải gồm:
 
-2. Lý thuyết
+1.
 
-3. Thiết kế hệ thống
+Mục tiêu.
 
-4. Kiến trúc
+2.
 
-5. Folder
+Lý thuyết.
 
-6. Script
+3.
 
-7. Code
+Thiết kế hệ thống.
 
-8. Giải thích từng dòng
+4.
 
-9. Unity API
+Thiết kế kiến trúc.
 
-10. Debug
+5.
 
-11. Bài tập
+Tạo Folder.
 
-12. Git Commit
+6.
 
-Mọi code đều phải có comment tiếng Việt.
+Tạo Script.
 
-Ưu tiên Gameplay trước.
+7.
 
-Đồ họa hoàn thiện sau.
+Viết Code.
 
-Luôn giải thích vì sao phải thiết kế như vậy.
+8.
 
-Nếu phát hiện workflow hoặc kiến trúc có vấn đề, hãy giải thích rõ lý do trước khi đề xuất thay đổi. Không tự ý thay đổi khi chưa có sự đồng ý của người dùng.
+Giải thích từng dòng.
+
+9.
+
+Unity API.
+
+10.
+
+Debug.
+
+11.
+
+Bài tập.
+
+12.
+
+Git Commit.
+
+---
+
+Code phải:
+
+- Clean Code.
+
+- Có comment tiếng Việt.
+
+- Một Script một nhiệm vụ.
+
+- Giải thích toàn bộ Unity API.
+
+- Có Debug.
+
+- Có Git Commit.
+
+---
+
+Ưu tiên:
+
+Gameplay
+
+↓
+
+Prototype
+
+↓
+
+System
+
+↓
+
+UI
+
+↓
+
+Polish
