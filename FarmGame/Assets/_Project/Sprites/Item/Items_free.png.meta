@@ -64,7 +64,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -75,10 +75,10 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -102,7 +102,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -140,7 +140,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Items_free_0
+      name: wood_icon
       rect:
         serializedVersion: 2
         x: 0
@@ -148,7 +148,7 @@ TextureImporter:
         width: 17
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -162,7 +162,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Items_free_1
+      name: stone_icon
       rect:
         serializedVersion: 2
         x: 16
@@ -170,7 +170,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -184,7 +184,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Items_free_2
+      name: fiber_icon
       rect:
         serializedVersion: 2
         x: 33
@@ -192,7 +192,7 @@ TextureImporter:
         width: 14
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -206,7 +206,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Items_free_3
+      name: iron_ingot_icon
       rect:
         serializedVersion: 2
         x: 47
@@ -214,7 +214,7 @@ TextureImporter:
         width: 18
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -228,7 +228,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Items_free_4
+      name: iron_ore_icon
       rect:
         serializedVersion: 2
         x: 65
@@ -236,7 +236,7 @@ TextureImporter:
         width: 8
         height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -258,7 +258,7 @@ TextureImporter:
         width: 8
         height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -272,15 +272,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Items_free_6
+      name: hoe_icon
       rect:
         serializedVersion: 2
-        x: 81
+        x: 80
         y: 0
         width: 14
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -294,7 +294,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Items_free_7
+      name: axe_icon
       rect:
         serializedVersion: 2
         x: 96
@@ -302,7 +302,7 @@ TextureImporter:
         width: 14
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -316,7 +316,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Items_free_8
+      name: sword_icon
       rect:
         serializedVersion: 2
         x: 112
@@ -324,7 +324,7 @@ TextureImporter:
         width: 17
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -338,7 +338,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Items_free_9
+      name: sickle_icon
       rect:
         serializedVersion: 2
         x: 130
@@ -346,7 +346,7 @@ TextureImporter:
         width: 10
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -363,7 +363,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 659374f44eb3a5340a429793093a380b
     internalID: 0
     vertices: []
     indices: 
@@ -373,16 +373,16 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Items_free_0: 4917431248613031849
-      Items_free_1: 4578069136334323379
-      Items_free_2: 5100821927610582878
-      Items_free_3: -3042391835059661761
-      Items_free_4: 4692430842310604663
       Items_free_5: -3760275516458516991
-      Items_free_6: -5812249973041177222
-      Items_free_7: 6859178039190941009
-      Items_free_8: 6993309102378301181
-      Items_free_9: 1141050854171379268
+      axe_icon: 6859178039190941009
+      fiber_icon: 5100821927610582878
+      hoe_icon: -5812249973041177222
+      iron_ingot_icon: -3042391835059661761
+      iron_ore_icon: 4692430842310604663
+      sickle_icon: 1141050854171379268
+      stone_icon: 4578069136334323379
+      sword_icon: 6993309102378301181
+      wood_icon: 4917431248613031849
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

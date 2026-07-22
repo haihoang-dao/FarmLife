@@ -137,59 +137,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: farming crops (turnip) 16x32_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 16
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 63f13f4756defcbb0800000000000000
-      internalID: -4913447648428351690
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: farming crops (turnip) 16x32_1
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 0
-        width: 30
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: de3bba6fdf77626d0800000000000000
-      internalID: -3015590967829089299
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: farming crops (turnip) 16x32_2
       rect:
         serializedVersion: 2
-        x: 51
-        y: 3
-        width: 10
-        height: 9
+        x: 52
+        y: 4
+        width: 8
+        height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -206,12 +162,12 @@ TextureImporter:
       name: farming crops (turnip) 16x32_3
       rect:
         serializedVersion: 2
-        x: 66
-        y: 2
-        width: 11
-        height: 12
+        x: 67
+        y: 3
+        width: 9
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -228,12 +184,12 @@ TextureImporter:
       name: farming crops (turnip) 16x32_4
       rect:
         serializedVersion: 2
-        x: 82
-        y: 2
-        width: 11
-        height: 14
+        x: 83
+        y: 3
+        width: 9
+        height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -250,12 +206,12 @@ TextureImporter:
       name: farming crops (turnip) 16x32_5
       rect:
         serializedVersion: 2
-        x: 97
-        y: 2
-        width: 14
-        height: 16
+        x: 98
+        y: 3
+        width: 12
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -272,12 +228,12 @@ TextureImporter:
       name: farming crops (turnip) 16x32_6
       rect:
         serializedVersion: 2
-        x: 112
-        y: 2
-        width: 16
-        height: 17
+        x: 113
+        y: 3
+        width: 14
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -294,12 +250,12 @@ TextureImporter:
       name: farming crops (turnip) 16x32_7
       rect:
         serializedVersion: 2
-        x: 128
+        x: 129
         y: 0
-        width: 16
-        height: 17
+        width: 14
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -316,12 +272,12 @@ TextureImporter:
       name: farming crops (turnip) 16x32_8
       rect:
         serializedVersion: 2
-        x: 144
-        y: 4
-        width: 16
-        height: 23
+        x: 145
+        y: 5
+        width: 14
+        height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -334,11 +290,77 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: farming crops (turnip) 16x32_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567ed978c2a0d6a4995d69c4645d9d63
+      internalID: 1739459894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip_seed_icon
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02679c4fb9b277f4ab2360a3adb26b00
+      internalID: -3015590967829089299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip_planted_stage
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c8f76da4196ab45be59e20d439b626
+      internalID: 1636821114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: ed38ae0a0d2a6a04fa81a751c28e2bc7
     internalID: 0
     vertices: []
     indices: 
@@ -346,10 +368,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      farming crops (turnip) 16x32_0: -4913447648428351690
-      farming crops (turnip) 16x32_1: -3015590967829089299
+      farming crops (turnip) 16x32_0: 1739459894
       farming crops (turnip) 16x32_2: -4477152121043886802
       farming crops (turnip) 16x32_3: -6328626047359907504
       farming crops (turnip) 16x32_4: 5996808956294795852
@@ -357,6 +380,8 @@ TextureImporter:
       farming crops (turnip) 16x32_6: -393765950411059832
       farming crops (turnip) 16x32_7: 4274247084820884976
       farming crops (turnip) 16x32_8: -103841384411574320
+      turnip_planted_stage: 1636821114
+      turnip_seed_icon: -3015590967829089299
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

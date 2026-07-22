@@ -1,154 +1,144 @@
-# FARM LIFE - 01: PROJECT CONTEXT
+# FARM LIFE — PROJECT CONTEXT
 
-## Project Information
+## 1. Thông tin dự án
 
-Tên dự án: Farm Life
+| Mục | Giá trị |
+|---|---|
+| Tên dự án | Farm Life |
+| Thể loại | 2D Top Down Farming RPG |
+| Chế độ | Single Player, Offline |
+| Engine | Unity 6.5 |
+| Phiên bản Unity | 6000.5.0f1 |
+| Ngôn ngữ | C# |
+| Render Pipeline | Universal Render Pipeline 2D |
+| Phong cách đồ họa | Pixel Art |
 
-Thể loại:
-- 2D Top Down
-- Farming RPG
-- Single Player
-- Offline
+## 2. Triết lý phát triển
 
-Engine:
-- Unity 6.5
-- Version: 6000.5.0f1
+1. Gameplay First.
+2. Prototype First.
+3. Hoàn thiện hệ thống trước.
+4. UI sau khi gameplay ổn định.
+5. Graphics và Polish thực hiện cuối.
 
-Language:
-- C#
-
-Render Pipeline:
-- Universal Render Pipeline (URP 2D)
-
-Art Style:
-- Pixel Art
-
-Development Philosophy:
-- Gameplay First
-- Prototype First
-- Graphics Later
-- Polish Last
-
----
-
-# Graduation Goal
+## 3. Mục tiêu đồ án
 
 Người chơi có thể:
 
-- Di chuyển
-- Cuốc đất
-- Trồng hạt giống
-- Tưới nước
-- Cây phát triển
-- Thu hoạch
-- Nhận Item
-- Inventory
-- Bán Item
-- Nhận Coin
-- Mua Seed
-- Mở rộng Farm
-- NPC
-- Dialogue
-- Quest
-- Save / Load
+- Di chuyển trong bản đồ.
+- Tương tác với đối tượng.
+- Nhặt và quản lý vật phẩm.
+- Chọn và sử dụng công cụ.
+- Cuốc đất.
+- Trồng hạt giống.
+- Tưới nước.
+- Chờ cây phát triển.
+- Thu hoạch.
+- Nhận vật phẩm vào Inventory.
+- Bán vật phẩm và nhận Coin.
+- Mua hạt giống.
+- Giao tiếp với NPC.
+- Nhận và hoàn thành Quest.
+- Mở rộng nông trại.
+- Lưu và tải dữ liệu.
 
-Không phát triển:
+Không phát triển trong phạm vi đồ án:
 
-- Multiplayer
-- Combat
-- Dungeon
-- Fishing
-- Marriage
-- Online
+- Multiplayer.
+- Combat.
+- Dungeon.
+- Fishing.
+- Marriage.
+- Online.
+- Mine.
 
----
+## 4. Cấu trúc thư mục dự án
 
-# Project Structure
+```text
+Assets/
+└── _Project/
+    ├── Art/
+    ├── Animations/
+    ├── Audio/
+    ├── Fonts/
+    ├── Input/
+    ├── Materials/
+    ├── Prefabs/
+    ├── Resources/
+    ├── Scenes/
+    ├── Scripts/
+    ├── ScriptableObjects/
+    ├── Shaders/
+    ├── Sprites/
+    └── UI/
+```
 
-Assets
+## 5. Cấu trúc Script dự kiến
 
-└── _Project
+```text
+Scripts/
+├── Core/
+├── Player/
+├── Camera/
+├── Input/
+├── Interaction/
+├── Item/
+├── Inventory/
+├── Tool/
+├── Crop/
+├── Time/
+├── Economy/
+├── NPC/
+├── Dialogue/
+├── Quest/
+├── Building/
+├── Animal/
+├── Save/
+├── UI/
+└── Utilities/
+```
 
-    ├── Art
-    ├── Animations
-    ├── Audio
-    ├── Fonts
-    ├── Materials
-    ├── Prefabs
-    ├── Resources
-    ├── Scenes
-    ├── ScriptableObjects
-    ├── Scripts
-    ├── Shaders
-    ├── Sprites
-    └── UI
+## 6. Quy tắc code
 
----
+- Class, Struct, Enum, Method và Property dùng `PascalCase`.
+- Field và biến cục bộ dùng `camelCase`.
+- Biến cần hiển thị trong Inspector dùng `[SerializeField] private`.
+- Một Script chỉ chịu trách nhiệm cho một nhóm hành vi rõ ràng.
+- Không tạo Script quá lớn khi có thể tách trách nhiệm hợp lý.
+- Comment và XML Documentation viết bằng tiếng Việt.
+- Giải thích đầy đủ Unity API được sử dụng.
+- Có bước Debug và kiểm thử trước khi chuyển bài.
+- Mỗi nhóm thay đổi phải có Git Commit rõ ràng.
 
-# Script Structure
-
-Scripts
-
-- Core
-- Player
-- Camera
-- Input
-- Crop
-- Inventory
-- Item
-- Tool
-- Building
-- NPC
-- Dialogue
-- Quest
-- Economy
-- Save
-- UI
-- Utilities
-
----
-
-# Coding Rules
-
-- PascalCase cho Class
-- PascalCase cho Method
-- camelCase cho Field
-- [SerializeField] private cho biến Inspector
-- Một Script chỉ có một nhiệm vụ
-- Comment tiếng Việt
-- Giải thích Unity API
-- Code sạch
-- Có Debug
-- Có Git Commit
-
----
-
-# Working Rules
+## 7. Quy tắc hướng dẫn
 
 ChatGPT đóng vai Senior Unity Developer.
 
-Người học là Junior Unity Developer.
+Người học đóng vai Junior Unity Developer.
 
-Mỗi bài học phải gồm:
+Mỗi bài học phải có:
 
-1. Lý thuyết
-2. Thiết kế hệ thống
-3. Kiến trúc
-4. Folder
-5. Script
-6. Code
-7. Giải thích từng dòng
-8. Unity API
-9. Debug
-10. Bài tập
-11. Git Commit
+1. Mục tiêu.
+2. Lý thuyết.
+3. Thiết kế hệ thống.
+4. Kiến trúc.
+5. Cấu trúc Folder.
+6. Tạo hoặc chỉnh sửa Script.
+7. Code hoàn chỉnh.
+8. Giải thích code.
+9. Giải thích Unity API.
+10. Cấu hình Inspector từng bước.
+11. Debug và lỗi thường gặp.
+12. Điều kiện hoàn thành.
+13. Bài kiểm tra.
+14. Git Commit.
 
 Không được:
 
-- Nhảy Phase
-- Bỏ bước
-- Đổi Roadmap
-- Tự thêm Feature
-- Dùng kiến trúc khác khi chưa được yêu cầu
-
-Luôn ưu tiên Gameplay trước.
+- Nhảy Phase.
+- Bỏ bài.
+- Dạy lại nội dung đã hoàn thành.
+- Tự ý đổi Roadmap.
+- Tự ý thêm Feature ngoài phạm vi.
+- Thay đổi kiến trúc hiện tại khi chưa phân tích ảnh hưởng.
+- Viết lại Player Movement hoặc Player Animation nếu bài hiện tại không yêu cầu.

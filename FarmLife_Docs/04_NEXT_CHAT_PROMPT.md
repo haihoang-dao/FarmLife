@@ -1,155 +1,128 @@
-# 04_NEXT_CHAT_PROMPT.md
+# FARM LIFE — NEXT CHAT PROMPT
 
-# NEXT CHAT PROMPT
+Bạn đang tiếp tục phát triển đồ án tốt nghiệp Unity **Farm Life**.
 
-Bạn đang tiếp tục phát triển đồ án tốt nghiệp Unity:
+## 1. Tài liệu phải đọc trước
 
-Farm Life.
+Đọc theo thứ tự:
 
-Trước khi trả lời:
+1. `01_PROJECT_CONTEXT.md`
+2. `02_PROJECT_STATE.md`
+3. `03_ASSET_DATABASE.md`
+4. `05_DEVELOPMENT_LOG.md`
+5. `06_PHASE_CHECKLIST.md`
 
-1.
+Sau đó tiếp tục đúng Phase và Lesson hiện tại.
 
-Đọc PROJECT_CONTEXT.
+## 2. Trạng thái hiện tại
 
-2.
+```text
+Phase 03
+Item & Inventory Foundation
 
-Đọc PROJECT_STATE.
+Current Lesson
+3.1 — Item & Inventory Architecture
+```
 
-3.
+Phase 00, Phase 01 và Phase 02 đã hoàn thành.
 
-Đọc ASSET_DATABASE.
+Không quay lại dạy lại:
 
-Sau đó:
+- Project Setup.
+- Tilemap.
+- Player Movement.
+- Player Animation.
+- Camera Follow.
+- Collision.
+- Y Sorting.
+- Interaction System.
 
-Tiếp tục đúng Lesson hiện tại.
+Chỉ chỉnh các hệ thống trên khi bài hiện tại thực sự yêu cầu tích hợp và phải giải thích rõ ảnh hưởng.
 
----
+## 3. Quy tắc khi người dùng nhập `next`
 
-Hiện tại:
+Khi người dùng nhập:
 
-Phase 02
-
-Lesson 2.1
-
-Player System
-
----
-
-Không được:
-
-- Quay lại Phase 01.
-
-- Đổi Roadmap.
-
-- Bỏ bước.
-
-- Tự ý thêm Feature.
-
-- Tự ý đổi kiến trúc.
-
----
-
-Nếu người dùng nhập:
-
+```text
 next
+```
 
-↓
+Phải hiểu rằng:
 
-Hiểu rằng
+1. Lesson hiện tại đã hoàn thành.
+2. Đánh dấu Lesson đó hoàn thành trong Checklist.
+3. Chuyển sang Lesson tiếp theo.
+4. Không hỏi lại nội dung đã xác nhận.
+5. Không bỏ Lesson.
+6. Không tự ý chuyển Phase.
+7. Không dạy lại bài cũ.
 
-Lesson hiện tại hoàn thành.
+## 4. Cấu trúc bắt buộc của mỗi Lesson
 
-↓
+Mỗi bài phải có:
 
-Sang Lesson tiếp theo.
+1. Mục tiêu.
+2. Kiến thức cần hiểu.
+3. Kiến trúc và trách nhiệm từng thành phần.
+4. Kiểm tra trạng thái hiện tại trước khi sửa.
+5. Đường dẫn Folder chính xác.
+6. Các thao tác Unity theo từng click.
+7. Script cần tạo hoặc chỉnh sửa.
+8. Code hoàn chỉnh.
+9. Comment và XML Documentation tiếng Việt.
+10. Giải thích từng phần code.
+11. Giải thích Unity API.
+12. Cấu hình Inspector với giá trị cụ thể.
+13. Cách kiểm tra trong Play Mode.
+14. Lỗi thường gặp và cách sửa.
+15. Điều kiện hoàn thành.
+16. Git Commit phù hợp.
 
----
-
-Mỗi Lesson phải gồm:
-
-1.
-
-Mục tiêu.
-
-2.
-
-Lý thuyết.
-
-3.
-
-Thiết kế hệ thống.
-
-4.
-
-Thiết kế kiến trúc.
-
-5.
-
-Tạo Folder.
-
-6.
-
-Tạo Script.
-
-7.
-
-Viết Code.
-
-8.
-
-Giải thích từng dòng.
-
-9.
-
-Unity API.
-
-10.
-
-Debug.
-
-11.
-
-Bài tập.
-
-12.
-
-Git Commit.
-
----
-
-Code phải:
+## 5. Quy tắc code
 
 - Clean Code.
+- Một Script một trách nhiệm.
+- Không tạo Controller khổng lồ.
+- Dùng `[SerializeField] private` cho tham chiếu Inspector.
+- Dùng XML Documentation `///` cho Class, Method và Field quan trọng.
+- Không tự ý thay đổi tên Script hiện có.
+- Không viết lại Player Movement hoặc Player Animation.
+- Không tạo hệ thống Facing Direction mới.
+- Tái sử dụng Interaction System của Phase 02.
+- Inventory Model phải độc lập với Inventory UI.
+- Item Data không được chứa logic dành riêng cho Crop, Tool, NPC hoặc Quest.
+- Có kiểm tra `null`, dữ liệu không hợp lệ và giới hạn sức chứa.
+- Không ghi lỗi giả định vào Development Log.
 
-- Có comment tiếng Việt.
+## 6. Thứ tự ưu tiên
 
-- Một Script một nhiệm vụ.
-
-- Giải thích toàn bộ Unity API.
-
-- Có Debug.
-
-- Có Git Commit.
-
----
-
-Ưu tiên:
-
+```text
 Gameplay
-
-↓
-
-Prototype
-
-↓
-
+  ↓
+Data Model
+  ↓
 System
-
-↓
-
+  ↓
+Testing
+  ↓
 UI
-
-↓
-
+  ↓
 Polish
+```
+
+## 7. Roadmap chính thức từ Phase 03
+
+```text
+Phase 03 — Item & Inventory Foundation
+Phase 04 — Tool System
+Phase 05 — Crop System
+Phase 06 — Time & Day System
+Phase 07 — Economy & Shop
+Phase 08 — NPC & Dialogue
+Phase 09 — Quest System
+Phase 10 — Farm Expansion & Building
+Phase 11 — Animal System
+Phase 12 — Save & Load
+Phase 13 — UI & Menu
+Phase 14 — Polish, Build & Final Testing
+```

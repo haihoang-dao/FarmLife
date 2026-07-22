@@ -1,91 +1,156 @@
-# 03_ASSET_DATABASE.md
+# FARM LIFE — ASSET DATABASE
 
-# FARM LIFE - ASSET DATABASE
+## 1. Quy tắc chung
 
----
+- Không chỉnh sửa trực tiếp Asset gốc.
+- Không đổi tên hoặc di chuyển file bên trong Asset gốc nếu không cần thiết.
+- Asset cần cắt, chỉnh Pivot, đổi tên hoặc chỉnh sửa phải được copy sang `_Project`.
+- Scene, Prefab và Script của dự án chỉ nên tham chiếu tới bản đã chuẩn hóa trong `_Project` khi có thể.
+- Không xóa Asset gốc khi dự án vẫn đang sử dụng file từ Asset đó.
 
-# Main Asset
+## 2. Clover Valley V2 Free
 
-Clover Valley V2 Free
+### Mục đích sử dụng
 
-Sử dụng:
+- Player.
+- NPC.
+- Buildings.
+- Environment.
+- Animals.
+- Tilesets.
+- Decoration.
+- Item artwork khi phù hợp.
 
-Player
+### Quy tắc
 
-NPC
+Asset cần chỉnh sửa được copy sang:
 
-Buildings
+```text
+Assets/_Project/Sprites/
+```
 
-Environment
+hoặc thư mục con phù hợp.
 
-Animals
+## 3. Seliel Farming Crops
 
-Tilesets
+Asset sử dụng:
 
-Decoration
+- Seliel Farming Crops #1.
+- Seliel Farming Crops #2.
 
-Không chỉnh sửa Asset gốc.
+Mục đích:
 
-Nếu cần sửa:
+- Seed artwork.
+- Crop stages.
+- Harvested crop artwork.
+- Farming-related Item icons nếu phù hợp.
 
-Copy sang
+Quy tắc:
 
-Assets/_Project/Sprites
+- Đây là bộ Crop chính thức của dự án.
+- Không sử dụng Crop của Clover Valley cho hệ thống Crop chính.
+- Không chỉnh sửa file gốc.
+- Copy Sprite cần dùng sang `_Project` trước khi chỉnh sửa.
 
----
+## 4. Player
 
-# Crop Asset
+Nguồn:
 
-Seliel Farming Crops #1
+- Clover Valley.
+- Character: Boy.
 
-Seliel Farming Crops #2
+Đã sử dụng:
 
-Đây là bộ Crop duy nhất sử dụng.
+- Idle Down.
+- Idle Up.
+- Idle Side.
+- Walk Down.
+- Walk Up.
+- Walk Side.
 
-Không dùng Crop của Clover Valley.
+Đã hoàn thành:
 
----
+- Sprite slicing.
+- Animation Clip.
+- Animator.
+- Flip X.
+- Facing Direction.
+- Player Prefab.
 
-# Player
+## 5. Map và Tilemap
 
-Source
+Đã sử dụng:
 
-Clover Valley
+- Grass.
+- Path.
+- Fence.
+- Lake.
+- Building.
+- Decoration.
+- Collision tiles.
 
-Character
+Tile Palette chính:
 
-Boy
+```text
+FarmPalette
+```
 
-Sẽ sử dụng:
+Cấu trúc dự kiến:
 
-Idle
+```text
+Assets/_Project/Art/TilePalette/
+├── FarmPalette/
+└── Tiles/
+```
 
-Walk
+## 6. Tree
 
-Animation
+Tree sử dụng:
 
----
+- SpriteRenderer.
+- Không dùng Tilemap cho Tree chính.
+- Root chứa Collider.
+- Graphics chứa SpriteRenderer.
+- Có Prefab.
+- Có Y Sorting.
+- Pivot và Sort Point phải phù hợp với chân cây.
 
-# Tilemap
+## 7. Scene
 
-Đã import
+Scene chính:
 
-Grass
+```text
+Assets/_Project/Scenes/Farm.unity
+```
 
-Path
+Scene hiện có:
 
-Fence
+- Prototype Farm.
+- Tilemap.
+- Collision.
+- Player.
+- Tree Prefab.
+- Camera.
+- Interaction Test Objects nếu còn được giữ lại.
 
-Tree
+## 8. Render Pipeline
 
-Building
+- Universal Render Pipeline 2D.
+- Renderer2D.
+- UniversalRP đã được gán trong Project Settings.
 
-Decoration
+## 9. Asset cho Phase 03
 
----
+Phase 03 cần chuẩn bị Icon thử nghiệm cho:
 
-# Scene
+- Seed.
+- Crop.
+- Material hoặc Item thông thường.
+- Tool chỉ dùng làm dữ liệu thử nghiệm nếu cần, chưa triển khai Tool gameplay.
 
-Farm.unity
+Icon có thể lấy từ Asset hiện có, nhưng phải:
 
-Đã tạo Prototype Map.
+1. Xác định rõ nguồn.
+2. Copy sang `_Project/Sprites/Items/`.
+3. Thiết lập Sprite Import đúng.
+4. Không chỉnh trực tiếp Asset gốc.
