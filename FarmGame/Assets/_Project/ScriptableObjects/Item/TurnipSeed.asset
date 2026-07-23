@@ -15,7 +15,7 @@ MonoBehaviour:
   itemId: turnip_seed
   displayName: Turnip Seed
   description: "H\u1EA1t gi\u1ED1ng d\xF9ng \u0111\u1EC3 tr\u1ED3ng c\u1EE7 c\u1EA3i"
-  icon: {fileID: -3015590967829089299, guid: 7a25b1e76ffed9443a26662a786da911, type: 3}
+  icon: {fileID: -3015590967829089299, guid: 46d3e75b9de503e4aaff715c880aecc5, type: 3}
   itemType: 1
   isStackable: 1
   maxStackSize: 99

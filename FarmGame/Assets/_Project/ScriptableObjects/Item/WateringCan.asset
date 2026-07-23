@@ -12,12 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 621e6bbfc01d8b54dbe261b7b966c0c7, type: 3}
   m_Name: WateringCan
   m_EditorClassIdentifier: Assembly-CSharp::ItemData
-  itemId: 
-  displayName: 
-  description: 
-  icon: {fileID: 0}
-  itemType: 0
-  isStackable: 1
-  maxStackSize: 99
+  itemId: watering_can
+  displayName: Watering Can
+  description: "C\xF4ng c\u1EE5 d\xF9ng \u0111\u1EC3 t\u01B0\u1EDBi \u0111\u1EA5t
+    v\xE0 c\xE2y tr\u1ED3ng."
+  icon: {fileID: 1398562571240891744, guid: f3bf8f2fc8b13c24c94f6c5704489a03, type: 3}
+  itemType: 3
+  isStackable: 0
+  maxStackSize: 1
   buyPrice: 0
   sellPrice: 0

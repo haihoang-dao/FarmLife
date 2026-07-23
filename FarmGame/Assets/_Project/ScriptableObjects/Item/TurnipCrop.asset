@@ -12,12 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 621e6bbfc01d8b54dbe261b7b966c0c7, type: 3}
   m_Name: TurnipCrop
   m_EditorClassIdentifier: Assembly-CSharp::ItemData
-  itemId: 
-  displayName: 
-  description: 
-  icon: {fileID: 0}
-  itemType: 0
+  itemId: turnip_crop
+  displayName: Turnip
+  description: "C\u1EE7 c\u1EA3i thu ho\u1EA1ch t\u1EEB c\xE2y \u0111\xE3 tr\u01B0\u1EDFng
+    th\xE0nh."
+  icon: {fileID: -4913447648428351690, guid: 46d3e75b9de503e4aaff715c880aecc5, type: 3}
+  itemType: 2
   isStackable: 1
   maxStackSize: 99
   buyPrice: 0
-  sellPrice: 0
+  sellPrice: 35

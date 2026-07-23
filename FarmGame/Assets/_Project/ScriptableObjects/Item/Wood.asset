@@ -12,12 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 621e6bbfc01d8b54dbe261b7b966c0c7, type: 3}
   m_Name: Wood
   m_EditorClassIdentifier: Assembly-CSharp::ItemData
-  itemId: 
-  displayName: 
-  description: 
-  icon: {fileID: 0}
-  itemType: 0
+  itemId: wood
+  displayName: Wood
+  description: "T\xE0i nguy\xEAn g\u1ED7 \u0111\u01B0\u1EE3c thu th\u1EADp trong
+    trang tr\u1EA1i."
+  icon: {fileID: 4917431248613031849, guid: bce76c6807a4ecc4aa048c36c2ba046c, type: 3}
+  itemType: 4
   isStackable: 1
   maxStackSize: 99
   buyPrice: 0
-  sellPrice: 0
+  sellPrice: 5
